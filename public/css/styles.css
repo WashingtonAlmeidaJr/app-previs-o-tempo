@@ -1,0 +1,35 @@
+h1,label,label,button{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    color: #354259;
+}
+
+title{
+    text-align: center;
+}
+
+input{
+    width: 200px;
+}
+
+.div-form{
+    padding: 10%;
+    margin:10% 10%;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 2.5px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    text-align: center;
+    }
+
+body{
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/19/99/background-weather-vector-1021999.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button{
+    margin: 5% 0%
+}
