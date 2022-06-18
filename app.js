@@ -47,6 +47,6 @@ app.post("/",function(req,res){
 
 
 app.listen(3000,function(){
-    console.log("yeah baby")
+    console.log("port 3000 is running")
 
 })
